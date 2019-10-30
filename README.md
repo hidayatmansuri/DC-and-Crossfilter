@@ -1,14 +1,7 @@
-         ___        ______     ____ _                 _  ___  
-        / \ \      / / ___|   / ___| | ___  _   _  __| |/ _ \ 
-       / _ \ \ /\ / /\___ \  | |   | |/ _ \| | | |/ _` | (_) |
-      / ___ \ V  V /  ___) | | |___| | (_) | |_| | (_| |\__, |
-     /_/   \_\_/\_/  |____/   \____|_|\___/ \__,_|\__,_|  /_/ 
- ----------------------------------------------------------------- 
+# DC and Crossfilter
 
+DC and Crossfilter are javascripts library which helps create different type of charts by data inputs.
 
-Hi there! Welcome to AWS Cloud9!
+We have created saverals charts such as Pie, bar, composite, stackedand scattered. We have also created some charts in colourful integrations as well as targetting different set of data
 
-To get started, create some files, play with the terminal,
-or visit https://docs.aws.amazon.com/console/cloud9/ for our documentation.
-
-Happy coding!
+We have created some charts with average rather than total spent and by time data as well.
